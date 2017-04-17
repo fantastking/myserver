@@ -11,5 +11,6 @@ namespace ClassLibrary1
         public string test;
         public string name;
         public string age;
+        public int t;
     }
 }
